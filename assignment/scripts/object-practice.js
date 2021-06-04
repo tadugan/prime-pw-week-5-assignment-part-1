@@ -57,3 +57,5 @@ console.log(me.shoeCount);
 me.favoriteColor = 'Blanched Almond';
 console.log(me.favoriteColor);
 console.log(me);
+
+// finished assignment 
